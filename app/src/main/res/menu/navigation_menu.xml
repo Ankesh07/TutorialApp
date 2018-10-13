@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/nav_intro"
+        android:title="Introduction"
+        />
+
+    <item
+        android:id="@+id/nav_l1"
+        android:title="OOP's Concept"/>
+
+    <item
+        android:id="@+id/nav_l2"
+        android:title="@string/Classes"/>
+
+    <item
+        android:id="@+id/nav_l3"
+        android:title="Access Specifier"/>
+
+    <item
+        android:id="@+id/nav_l4"
+        android:title="Method Overloading"/>
+
+    <item
+        android:id="@+id/nav_l5"
+        android:title="Method Overriding"/>
+
+    <item
+        android:id="@+id/nav_l6"
+        android:title="Constructor"/>
+
+
+    <item
+        android:id="@+id/nav_l7"
+        android:title="static keyword"/>
+
+
+    <item
+        android:id="@+id/nav_l8"
+        android:title="super keyword"/>
+
+    <item
+        android:id="@+id/nav_l9"
+        android:title="final keyword"/>
+
+
+    <item
+        android:id="@+id/nav_l10"
+        android:title="this keyword"/>
+
+    <item
+        android:id="@+id/nav_l11"
+        android:title="Interface"/>
+
+    <item
+        android:id="@+id/nav_l12"
+        android:title="Packages"/>
+
+     <item
+            android:id="@+id/nav_l13"
+            android:title="Arrays"/>
+
+        <item
+            android:id="@+id/nav_l14"
+            android:title="Strings"/>
+
+        <item
+            android:id="@+id/nav_l15"
+            android:title="Exceptions"/>
+
+        <item
+            android:id="@+id/nav_l16"
+            android:title="@string/throwing"/>
+
+        <item
+            android:id="@+id/nav_l17"
+            android:title="MultiThreading"/>
+
+        <item
+            android:id="@+id/nav_l18"
+            android:title="I/O Stream"/>
+
+        <item
+            android:id="@+id/nav_l19"
+            android:title="@string/uni"/>
+
+        <item
+            android:id="@+id/nav_l20"
+            android:title="synchronized keyword"/>
+
+
+
+
+    </group>
+
+</menu>
